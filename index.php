@@ -188,7 +188,7 @@ session_start();
   </body>
   <footer class="bg-light py-4">
     <div class="container text-center">
-        <p>&copy; 2023 Copyright by Dimas Pangestu | STRD</p>
+        <p>&copy; 2023 Copyright by Dimas Pangestu 12 RPL | STRD</p>
     </div>
 </footer>
 </html>
